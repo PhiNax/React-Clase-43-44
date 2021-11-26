@@ -5,7 +5,7 @@ import ContentWrapper from './components/ContentWrapper';
 
 function App() {
   return (
-    <div className="wrapper">
+    <div id="wrapper">
       <Sidebar />
       <ContentWrapper />
     </div>
