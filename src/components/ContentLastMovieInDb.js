@@ -1,6 +1,6 @@
 import mandolorianImage from '../assets/images/mandalorian.jpg'
 
-function ContentLastMovie() {
+function ContentLastMovieInDb() {
     return (
         <div className="col-lg-6 mb-4">
             <div className="card shadow mb-4">
@@ -19,4 +19,4 @@ function ContentLastMovie() {
     )
 }
 
-export default ContentLastMovie
+export default ContentLastMovieInDb

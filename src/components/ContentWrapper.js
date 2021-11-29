@@ -1,6 +1,7 @@
 import TopBar from "./TopBar"
 import ContentRowTop from "./ContentRowTop"
 import Footer from "./Footer"
+import Table from "./Table"
 
 function ContentWrapper() {
     return (
@@ -9,6 +10,7 @@ function ContentWrapper() {
 
                 <TopBar />
                 <ContentRowTop />
+                <Table />
                 <Footer />
 
             </div>
